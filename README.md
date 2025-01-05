@@ -1,6 +1,4 @@
 # Shape-Decomposer
-# Shape Decomposer
-
 ## Description
 A Java program that visualizes and decomposes 2D polygons by removing less important points. The shape is represented as a circular doubly linked list, enabling efficient manipulation and rendering.
 
